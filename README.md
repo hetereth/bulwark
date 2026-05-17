@@ -1,4 +1,4 @@
-# bulwark ^_____^
+# bulwark
 
 > minimal terminal project in python
 
@@ -19,15 +19,12 @@ it is structured more like a compact tool than a one-off script.
 
 ```text
 bulwark/
-├── bulwark.py
-├── readme.md
-├── requirements.txt
 ├── .gitignore
 ├── license
+├── readme.md
+├── bulwark.py
+├── requirements.txt
 ├── assets/
-│   └── preview.png
-└── docs/
-    └── architecture.md
 ```
 
 ## notes
