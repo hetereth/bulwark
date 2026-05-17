@@ -24,7 +24,6 @@ bulwark/
 ├── readme.md
 ├── bulwark.py
 ├── requirements.txt
-├── assets/
 ```
 
 ## notes
